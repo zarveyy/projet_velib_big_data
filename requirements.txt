@@ -1,0 +1,5 @@
+pyspark
+kafka-python
+python-dateutil
+requests
+json
