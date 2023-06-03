@@ -37,10 +37,10 @@ pip install -r requirements.txt
 
 ```
 cd spark
-spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0 streaming.py
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.1.2 streaming.py
 ```
 ```
-# Si cela ne fonctionne pas, remplacez le 3.4.0 par votre version de spark, pour la connaitre
+# Si cela ne fonctionne pas, remplacez le 3.1.2 par votre version de spark, pour la connaitre
 pyspark --version
 ```
 
