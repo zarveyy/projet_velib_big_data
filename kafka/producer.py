@@ -1,5 +1,5 @@
 from kafka import KafkaProducer
-from utils.utils import get_velib_data, get_single_station_data
+from utils.utils import get_velib_data
 import json
 from time import sleep
 
